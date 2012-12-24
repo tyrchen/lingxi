@@ -1,41 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://tyrchen.github.com/lingxi/blog/2012/12/16/first-blog/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tyrchen.github.com/lingxi/blog/2012/12/16/why-meteor/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://tyrchen.github.com/lingxi/blog/2012/12/18/octopress-client-a-better-composition-tool/
-        </loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tyrchen.github.com/lingxi/blog/2012/12/19/atanasoff-product-flow-chart/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tyrchen.github.com/lingxi/blog/2012/12/21/meteor-basics/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tyrchen.github.com/lingxi/about/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
         <loc>http://tyrchen.github.com/lingxi/blog/archives/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tyrchen.github.com/lingxi/featured-github-repos/</loc>
-        <lastmod>2012-12-24T09:15:52+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tyrchen.github.com/lingxi/idea-fragment/</loc>
         <lastmod>2012-12-24T09:15:52+08:00</lastmod>
     </url>
     <url>
