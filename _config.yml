@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://tyrchen.github.com/lingxi
+url: http://lingxi.tchen.me
 title: 凌溪
 subtitle: 会当凌绝顶，每逐清溪水；身无彩凤双飞翼，心有灵犀一点通。
 author: Tyr Chen
@@ -105,7 +105,7 @@ google_analytics_tracking_id:
 facebook_like: false
 
 # Duoshuo comments
-duoshuo_name: tyrchen
+duoshuo_name: lingxi
 duoshuo_show_comment_count: true
 
 # Baidu share buttons
