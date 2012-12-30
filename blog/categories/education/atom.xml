@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: education | 凌溪]]></title>
+  <link href="http://lingxi.tchen.me/blog/categories/education/atom.xml" rel="self"/>
+  <link href="http://lingxi.tchen.me/"/>
+  <updated>2012-12-30T14:28:40+08:00</updated>
+  <id>http://lingxi.tchen.me/</id>
+  <author>
+    <name><![CDATA[Tyr Chen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[有关教育的小故事]]></title>
+    <link href="http://lingxi.tchen.me/blog/2012/12/28/story-about-education/"/>
+    <updated>2012-12-28T12:49:00+08:00</updated>
+    <id>http://lingxi.tchen.me/blog/2012/12/28/story-about-education</id>
+    <content type="html"><![CDATA[<h2>小蟹与母蟹</h2>
+
+<p>母蟹对小蟹说：<em>你不要横着爬，为什么不直着走呢？</em>
+小蟹答道：<em>妈妈，请您亲自教我怎样直走，我将照着您的样子走。</em>
+可母蟹根本不会直走，于是小蟹说她笨。</p>
+
+<p>这就是说：</p>
+
+<blockquote><p>教育者自己必须正直地生活，正直地走，才能去教导别人。</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
