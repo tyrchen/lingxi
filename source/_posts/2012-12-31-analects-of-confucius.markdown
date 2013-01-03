@@ -5,7 +5,7 @@ date: 2012-12-31 06:20
 comments: true
 categories: [book]
 tags: [tao, book]
-published: false
+published: true
 ---
 
 这是好几个月前读论语时摘录的内容，有空时我会把它们分门别类。
